@@ -41,7 +41,9 @@ Efter denna modul kommer du ha verktygen för att bygga mer skalbara och bättre
 * [Zustand - Complete Tutorial](https://www.youtube.com/watch?v=_ngCLZ5Iz-0&t=11s)
 
 ### Länkar
-
+* [Zustand - dokumentation](https://zustand.docs.pmnd.rs/getting-started/introduction)
+* [Styled Components - dokumentation](https://styled-components.com/docs)
+* [React Folder Architecture Patterns](https://blog.webdevsimplified.com/2022-07/react-folder-structure/)
 
 ### Övningar 
 
