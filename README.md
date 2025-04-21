@@ -14,7 +14,6 @@ Efter denna modul kommer du ha verktygen för att bygga mer skalbara och bättre
 2. Förstå fördelarna med global statehantering
 3. Förstå hur biblioteket Zustand fungerar vid global statehantering
 
-
 ## Resurser
 
 ### Presentationer
@@ -32,8 +31,7 @@ Efter denna modul kommer du ha verktygen för att bygga mer skalbara och bättre
 
 ### Lektionsrepon
 
-* [22 april]()
-* [23 april]()
+* [22 april](https://github.com/fu-react-fe24/week-17-lecture-22-apr)
 
 ### Filmer
 
@@ -47,6 +45,7 @@ Efter denna modul kommer du ha verktygen för att bygga mer skalbara och bättre
 
 ### Övningar 
 
+* [Zustand Bootcamp](https://github.com/fu-react-fe24/week-17-exercise-zustand-bootcamp)
 
 
 
