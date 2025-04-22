@@ -24,7 +24,7 @@ Efter denna modul kommer du ha verktygen för att bygga mer skalbara och bättre
 **LIVE**
 
 * [Global Statehantering](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EQhoU5-4EI9EhSdVjNqjq54B3mJ_N9j20n2hjIBAer4qpA?e=brJwfU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* [Arkitektur i React]()
+* [Arkitektur i React](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/Ed5fAwT2D-ZPlSRDSAFN7_sBcwh3jWTj4V_-od24lnJaPw?e=kSAdAq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Förinspelat** (Bonusfilmer som vi ej kommer gå igenom i klassrummet)
 
